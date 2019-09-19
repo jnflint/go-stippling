@@ -1,7 +1,7 @@
 package voronoi
 
 import (
-	"https://github.com/jnflint/go-stippling/density"
+	"github.com/jnflint/go-stippling/density"
 	"image"
 )
 
